@@ -1,8 +1,12 @@
 # HOW TO USE
-1. [DOWNLOAD LINK]()
+1. [DOWNLOAD LINK](https://drive.google.com/file/d/16Vqz8PJknN8xgv1y0d9avEtl3q0NOnF9/view?usp=sharing)
 2. UNCOMPRESS
 ```
 7z x crimson_cracking.7z
+```
+3. "GREP" BY LENGTH
+```
+awk 'length >= 8 && length <= 12' crimson_cracking.txt > crack.txt
 ```
 
 # WORDLISTS @ 06.04.2022:
