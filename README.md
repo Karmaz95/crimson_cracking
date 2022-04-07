@@ -1,5 +1,5 @@
 # HOW TO USE
-1. [DOWNLOAD LINK](https://drive.google.com/file/d/16Vqz8PJknN8xgv1y0d9avEtl3q0NOnF9/view?usp=sharing)
+1. [DOWNLOAD LINK - 3.6 GB](https://drive.google.com/file/d/16Vqz8PJknN8xgv1y0d9avEtl3q0NOnF9/view?usp=sharing)
 2. UNCOMPRESS
 ```
 7z x crimson_cracking.7z
@@ -12,9 +12,9 @@ awk 'length >= 8 && length <= 12' crimson_cracking.txt > crack.txt
 # WORDLISTS @ 06.04.2022:
 1. [Kaonashi - 2.35 GB](https://github.com/kaonashi-passwords/Kaonashi)
 2. [CrackStation - 4.2 GB](https://crackstation.net/crackstation-wordlist-password-cracking-dictionary.htm)
-3. [Seclists - 655 M](https://github.com/danielmiessler/SecLists/tree/master/Passwords)
-4. [rockyou.txt - 133 M](https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt)
-5. keymap.txt - 15 M 
+3. [Seclists - 655 MB](https://github.com/danielmiessler/SecLists/tree/master/Passwords)
+4. [rockyou.txt - 133 MB](https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt)
+5. keymap.txt - 15 MB
 ```
 kwp -z full.base en-us.keymap 2-to-16-max-3-direction-changes.route > keymap.txt
 ```
@@ -51,7 +51,7 @@ rm c123.txt rest.txt
 grep -a -P "^[\x21-\x7E]+$" crimson_cracking.txt > temp.txt
 ``` 
 
-### TOTAL 3599 M COMPRESSED 
+### TOTAL 3599 MB COMPRESSED
 ```
 $7z a -t7z -m0=lzma2 -mx=9 -mmt2 crimson_cracking.7z crimson_cracking.txt
 -----------------------------------------
