@@ -14,15 +14,16 @@ awk 'length >= 8 && length <= 12' crimson_cracking.txt > crack.txt
 2. [CrackStation - 4.2 GB](https://crackstation.net/crackstation-wordlist-password-cracking-dictionary.htm)
 3. [Seclists - 655 MB](https://github.com/danielmiessler/SecLists/tree/master/Passwords)
 4. [rockyou.txt - 133 MB](https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt)
-5. keymap.txt - 15 MB
+5. `keymap.txt - 15 MB`
 ```
 kwp -z full.base en-us.keymap 2-to-16-max-3-direction-changes.route > keymap.txt
 ```
 
 ## WORDLIST STRUCTURE
-1. 1000,000 MOST COMMON -\
-2. rockyou.txt          --|=> Filtered & only uniques - not sorted.
-3. keymap.txt           -/
+`1|2|3` => Filtered & only uniques - not sorted.
+1. `1,000,000 MOST COMMON`
+2. `rockyou.txt`
+3. `keymap.txt`
 3. Rest of the wordlists sorted by length and filtered.
 
 ### COMMANDS USED DURING CREATION => crimson_cracking.txt - 20 GB
