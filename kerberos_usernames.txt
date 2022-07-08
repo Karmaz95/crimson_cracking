@@ -865,14 +865,10 @@ adickinson
 adidas
 adixon
 adm
-Adm
 admin
 admin1
 administrator
-Administrator
 adminuser
-Adminuser
-AdminUser
 adminusr
 admiral
 adobson
@@ -1289,7 +1285,6 @@ anorth
 anorton
 another
 ansible
-Ansible
 answer
 antares
 antelope
@@ -1429,6 +1424,7 @@ artist
 arturo
 arussell
 aryan
+asamantha
 asanders
 asanderson
 asasas
@@ -1632,10 +1628,7 @@ azrael
 azsxdc
 aztnm
 azure
-Azure
 azureuser
-Azureuser
-AzureUser
 azzer
 b929ezzh
 baba
@@ -2752,6 +2745,7 @@ bryan
 bryan1
 bryant
 bryce
+bsamantha
 bsanders
 bsanderson
 bsaunders
@@ -4114,6 +4108,7 @@ crusty
 cryan
 crystal
 crystal1
+csamantha
 csanders
 csanderson
 csaunders
@@ -5130,6 +5125,7 @@ drunk
 drussell
 dryan
 drywall
+dsamantha
 dsanders
 dsanderson
 dsaunders
@@ -5848,6 +5844,7 @@ errors
 erussell
 erwin
 eryan
+esamantha
 esanders
 esanderson
 esaunders
@@ -6743,6 +6740,7 @@ fruity
 frussell
 fry
 fryan
+fsamantha
 fsanders
 fsanderson
 fsaunders
@@ -6792,8 +6790,6 @@ ftodd
 ftomlinson
 ftownsend
 ftp
-Ftp
-FTP
 ftucker
 fturnbull
 fturner
@@ -7686,6 +7682,7 @@ grunt
 grussell
 gryan
 gryphon
+gsamantha
 gsanders
 gsanderson
 gsaunders
@@ -7751,7 +7748,6 @@ gubber
 gucci
 guess
 guest
-Guest
 guido
 guiness
 guinness
@@ -8611,6 +8607,7 @@ hrowe
 hrowley
 hrussell
 hryan
+hsamantha
 hsanders
 hsanderson
 hsaunders
@@ -8748,8 +8745,6 @@ hydro
 hyoung
 hyperion
 hyperuser
-Hyperuser
-HyperUser
 hzze929b
 i62gbq
 iabbott
@@ -9152,7 +9147,6 @@ infinite
 infiniti
 infinity
 info
-Info
 ingram
 ingrid
 inicholls
@@ -9276,6 +9270,7 @@ isabella
 isabelle
 isacs155
 isaiah
+isamantha
 isanders
 isanderson
 isaunders
@@ -10033,6 +10028,7 @@ jrowe
 jrowley
 jrussell
 jryan
+jsamantha
 jsanders
 jsanderson
 jsaunders
@@ -10794,6 +10790,7 @@ krusty
 kryan
 krypton
 krystal
+ksamantha
 ksanders
 ksanderson
 ksaunders
@@ -11634,6 +11631,7 @@ lrowe
 lrowley
 lrussell
 lryan
+lsamantha
 lsanders
 lsanderson
 lsaunders
@@ -11850,7 +11848,6 @@ mamacita
 mamas
 mammoth
 manager
-Manager
 manchest
 manchester
 mancity
@@ -12192,8 +12189,6 @@ megane
 megapass
 megatron
 megauser
-Megauser
-MegaUser
 meghan
 meier
 meister
@@ -12774,6 +12769,7 @@ mrowe
 mrowley
 mrussell
 mryan
+msamantha
 msanders
 msanderson
 msaunders
@@ -12924,8 +12920,6 @@ myrtle
 myself
 myspace1
 mysql
-Mysql
-MySQL
 mystery
 mystic
 mytime
@@ -13557,6 +13551,7 @@ nrowe
 nrowley
 nrussell
 nryan
+nsamantha
 nsanders
 nsanderson
 nsaunders
@@ -14141,7 +14136,6 @@ opugh
 opus
 oquinn
 oracle
-Oracle
 orahman
 oral
 orandall
@@ -14185,6 +14179,7 @@ orussell
 orwell
 oryan
 osama
+osamantha
 osanders
 osanderson
 osaunders
@@ -14814,8 +14809,6 @@ phyde
 phyllis
 physics
 pi
-Pi
-PI
 pian
 piano
 pianoman
@@ -15239,7 +15232,6 @@ privacy
 private
 private1
 privileged
-Privileged
 proberts
 probertson
 probes
@@ -15270,6 +15262,7 @@ proxy
 prozac
 prussell
 pryan
+psamantha
 psanders
 psanderson
 psaunders
@@ -15352,7 +15345,6 @@ punker
 punkin
 punkrock
 puppet
-Puppet
 puppies
 puppy
 puppy1
@@ -15861,6 +15853,7 @@ qrowe
 qrowley
 qrussell
 qryan
+qsamantha
 qsanders
 qsanderson
 qsaunders
@@ -16688,12 +16681,9 @@ room
 rooney
 rooster
 root
-Root
 rootbeer
 rootedit
 rootuser
-Rootuser
-RootUser
 rosa
 rosario
 rosborne
@@ -16787,6 +16777,7 @@ rrrrrrrr
 rrussell
 rryan
 rsalinas
+rsamantha
 rsanders
 rsanderson
 rsaunders
@@ -18123,6 +18114,7 @@ srowe
 srowley
 srussell
 sryan
+ssamantha
 ssanders
 ssanderson
 ssaunders
@@ -18409,8 +18401,6 @@ supernov
 supersta
 superstar
 superuser
-Superuser
-SuperUser
 support
 supra
 supreme
@@ -18769,7 +18759,6 @@ terry
 terry1
 tessie
 test
-Test
 test1
 test12
 test123
@@ -19374,6 +19363,7 @@ trustme
 trustno1
 truth
 tryan
+tsamantha
 tsanders
 tsanderson
 tsaunders
@@ -19966,6 +19956,7 @@ ursula
 urussell
 uryan
 usa123
+usamantha
 usanders
 usanderson
 usarmy
@@ -19974,7 +19965,6 @@ usavage
 uschofield
 uscott
 user
-User
 username
 ushah
 usharp
@@ -20085,7 +20075,6 @@ vader1
 vagabond
 vagina
 vagrant
-Vagrant
 vahmed
 vakhtar
 valdepen
@@ -20617,6 +20606,7 @@ vrowe
 vrowley
 vrussell
 vryan
+vsamantha
 vsanders
 vsanderson
 vsaunders
@@ -21426,6 +21416,7 @@ wrowe
 wrowley
 wrussell
 wryan
+wsamantha
 wsanders
 wsanderson
 wsaunders
@@ -21960,6 +21951,7 @@ xrowe
 xrowley
 xrussell
 xryan
+xsamantha
 xsanders
 xsanderson
 xsaunders
@@ -22525,6 +22517,7 @@ yrowe
 yrowley
 yrussell
 yryan
+ysamantha
 ysanders
 ysanderson
 ysaunders
@@ -23109,6 +23102,7 @@ zrowe
 zrowley
 zrussell
 zryan
+zsamantha
 zsanders
 zsanderson
 zsaunders
