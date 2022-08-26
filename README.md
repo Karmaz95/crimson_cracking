@@ -210,3 +210,6 @@ Everything is Ok
 ├── xato-net-10-million-passwords-dup.txt
 └── xato-net-10-million-passwords.txt
 ```
+
+## TO DO:
+* https://github.com/Karmaz95/jwt-secrets
