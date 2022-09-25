@@ -8,6 +8,27 @@
 ```
 awk 'length >= 8 && length <= 12' crimson_cracking.txt > crack.txt
 ```
+4. SET THE ALIAS
+```
+alias wordlist="$HOME/PATH/crimson_cracking.txt"
+```
+
+# HASHCAT RULES
+1. [DOWNLOAD crimson_cracking.rule]()
+2. SET THE ALIAS
+```
+alias hashcat_rule="$HOME/PATH/crimson_cracking.rule"
+```
+3. USE WITH HASHCAT
+```
+hashcat hash.txt $wordlist -r $hashcat_rule
+```
+
+# RULES
+1. [best64.rule](https://github.com/hashcat/hashcat/blob/master/rules/best64.rule)
+2. [d3ad0ne.rule](https://raw.githubusercontent.com/hashcat/hashcat/master/rules/d3ad0ne.rule)
+3. [OneRuleToRuleThemAll.rule](https://github.com/NotSoSecure/password_cracking_rules/blob/master/OneRuleToRuleThemAll.rule)
+4. [cyclone_250.rule](https://raw.githubusercontent.com/cyclone-github/rules/master/cyclone_250.rule)
 
 # WORDLISTS @ 06.04.2022:
 1. [Kaonashi - 2.35 GB](https://github.com/kaonashi-passwords/Kaonashi)
@@ -210,6 +231,3 @@ Everything is Ok
 ├── xato-net-10-million-passwords-dup.txt
 └── xato-net-10-million-passwords.txt
 ```
-
-## TO DO:
-* https://github.com/Karmaz95/jwt-secrets
