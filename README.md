@@ -14,7 +14,10 @@ alias wordlist="$HOME/PATH/crimson_cracking.txt"
 ```
 
 # HASHCAT RULES
-1. [DOWNLOAD crimson_cracking.rule]()
+1. DOWNLOAD THE RULES
+```
+wget https://raw.githubusercontent.com/Karmaz95/crimson_cracking/main/crimson_cracking.rule
+```
 2. SET THE ALIAS
 ```
 alias hashcat_rule="$HOME/PATH/crimson_cracking.rule"
