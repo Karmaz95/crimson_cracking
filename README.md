@@ -10,7 +10,7 @@ awk 'length >= 8 && length <= 12' crimson_cracking.txt > crack.txt
 ```
 4. SET THE ALIAS
 ```
-alias wordlist="$HOME/PATH/crimson_cracking.txt"
+alias wordlist="$PWD/crimson_cracking.txt"
 ```
 
 # HASHCAT RULES
