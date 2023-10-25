@@ -20,7 +20,7 @@ wget https://raw.githubusercontent.com/Karmaz95/crimson_cracking/main/crimson_cr
 ```
 2. SET THE ALIAS
 ```
-alias hashcat_rule="$HOME/PATH/crimson_cracking.rule"
+alias hashcat_rule="$PWD/crimson_cracking.rule"
 ```
 3. USE WITH HASHCAT
 ```
